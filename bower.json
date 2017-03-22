@@ -1,0 +1,22 @@
+{
+  "name": "keg",
+  "description": "Simple app",
+  "main": "index.js",
+  "authors": [
+    "collins mutuma"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.0",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.0"
+  }
+}
